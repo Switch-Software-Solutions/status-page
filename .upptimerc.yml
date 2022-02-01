@@ -4,7 +4,7 @@ repo: status-page # The name of this repository
 
 sites:
   - name: Pase Libre API
-    url: https://api.paselibre.uy/api/health
+    url: https://api.paselibre.uy/api/health/liveness
 
   - name: Pase Libre WebSite
     url: https://paselibre.uy
