@@ -55,8 +55,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status-page
+  cname: status.switchsoftware.us
+  # baseUrl: /status-page
   logoUrl: https://switchsoftware.us/assets/images/logos/logo_switch.svg
   name: Switch Software Solutions
   introTitle: "Monitor de aplicaciones desarrolladas por Switch Software Solutions"
