@@ -10,22 +10,22 @@ sites:
     url: https://paselibre.uy
     icon: https://paselibre.uy/assets/images/paselibreLogo.svg
 
-  - name: SBI Institucional
+  - name: Institucional
     url: https://sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: SBI Mi Auto
+  - name: Mi Auto
     url: https://miauto.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: SBI Mi Hogar
+  - name: Mi Hogar
     url: https://mihogar.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: SBI Backoffice
+  - name: Backoffice
     url: https://back.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: SBI Autogestion
+  - name: Autogestion
     url: https://autogestion.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: SBI Corredores
+  - name: Corredores
     url: https://corredores.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
 
@@ -41,19 +41,19 @@ sites:
     expectedStatusCodes:
       - 404
 
-  - name: Cadynce Web Portal
+  - name: Web Portal
     url: https://cadynce-web-prod.azurewebsites.net
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-  - name: Cadynce Identity API
+  - name: Identity API
     url: https://cadynce-api-identity-prod.azurewebsites.net/index.html
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-  - name: Cadynce Elements API
+  - name: Elements API
     url: https://cadynce-api-elements-prod.azurewebsites.net/index.html
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-  - name: Cadynce Files API
+  - name: Files API
     url: https://cadynce-fileserver-prod.azurewebsites.net/index.html
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-  - name: Cadynce Elements API
+  - name: Elements API
     url: https://cadyncebpa-prod-api-management.azure-api.net
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
     expectedStatusCodes:
