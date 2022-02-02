@@ -41,6 +41,24 @@ sites:
     expectedStatusCodes:
       - 404
 
+  - name: Cadynce Web Portal
+    url: https://cadynce-web-prod.azurewebsites.net
+    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+  - name: Cadynce Identity API
+    url: https://cadynce-api-identity-prod.azurewebsites.net/index.html
+    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+  - name: Cadynce Elements API
+    url: https://cadynce-api-elements-prod.azurewebsites.net/index.html
+    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+  - name: Cadynce Files API
+    url: https://cadynce-fileserver-prod.azurewebsites.net/index.html
+    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+  - name: Cadynce Elements API
+    url: https://cadyncebpa-prod-api-management.azure-api.net
+    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+    expectedStatusCodes:
+      - 404
+
   - name: CEPI WebSite
     url: http://web-cau-prod.switch.com.uy
   - name: CEPI Gateway
