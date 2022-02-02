@@ -5,24 +5,35 @@ repo: status-page # The name of this repository
 sites:
   - name: Pase Libre API
     url: https://api.paselibre.uy/api/health/liveness
+    icon: https://paselibre.uy/assets/images/paselibreLogo.svg
   - name: Pase Libre WebSite
     url: https://paselibre.uy
+    icon: https://paselibre.uy/assets/images/paselibreLogo.svg
 
   - name: SBI Institucional
     url: https://sbi.uy
+    icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
   - name: SBI Mi Auto
     url: https://miauto.sbi.uy
+    icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
   - name: SBI Mi Hogar
     url: https://mihogar.sbi.uy
+    icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
   - name: SBI Backoffice
     url: https://back.sbi.uy
+    icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
   - name: SBI Autogestion
     url: https://autogestion.sbi.uy
+    icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
   - name: SBI Corredores
     url: https://corredores.sbi.uy
+    icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
 
 assignees:
-  - name: devops
+  - amontesdioca-sw
+  - mtorterolo-sw
+  - dsilveira-sw
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
