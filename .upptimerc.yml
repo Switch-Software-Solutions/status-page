@@ -29,6 +29,23 @@ sites:
     url: https://corredores.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
 
+  - name: The Real Scout
+    url: https://therealscout.com
+    icon: https://therealscout.com/assets/images/logos/after90-logo.png
+  - name: The Real Scout Backoffice
+    url: https://backoffice.therealscout.com
+    icon: https://therealscout.com/assets/images/logos/after90-logo.png
+  - name: The Real Scout Gateway
+    url: https://gateway.therealscout.com/identity
+    icon: https://therealscout.com/assets/images/logos/after90-logo.png
+    expectedStatusCodes:
+      - 404
+
+  - name: CEPI WebSite
+    url: http://web-cau-prod.switch.com.uy
+  - name: CEPI Gateway
+    url: http://api-cau-prod.switch.com.uy/api/health/liveness
+
 assignees:
   - amontesdioca-sw
   - mtorterolo-sw
