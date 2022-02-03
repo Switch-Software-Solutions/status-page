@@ -1,7 +1,7 @@
-url: https://cadyncebpa-prod-api-management.azure-api.net
+url: https://cadynce-api-elements-prod.azurewebsites.net/index.html
 status: up
-code: 404
-responseTime: 336
-lastUpdated: 2022-02-02T23:03:30.464Z
+code: 200
+responseTime: 103
+lastUpdated: 2022-02-03T12:51:58.931Z
 startTime: Wed Feb 02 2022 20:32:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
