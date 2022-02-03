@@ -53,7 +53,7 @@ sites:
   - name: Files API
     url: https://cadynce-fileserver-prod.azurewebsites.net/index.html
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-  - name: Elements API
+  - name: Gateway
     url: https://cadyncebpa-prod-api-management.azure-api.net
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
     expectedStatusCodes:
