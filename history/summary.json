@@ -96,52 +96,58 @@
     "slug": "backoffice",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 285,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
-    "dailyMinutesDown": {}
+    "time": 264,
+    "timeDay": 231,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "Autogestion",
     "url": "https://autogestion.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "autogestion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 192,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {}
+    "time": 248,
+    "timeDay": 329,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "Corredores",
     "url": "https://corredores.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "corredores",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 171,
+    "timeDay": 218,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "Scouting Portal",
@@ -168,16 +174,18 @@
     "slug": "backoffice",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 285,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
-    "dailyMinutesDown": {}
+    "time": 264,
+    "timeDay": 231,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "Gateway",
@@ -185,19 +193,17 @@
     "icon": "https://therealscout.com/assets/images/logos/after90-logo.png",
     "slug": "gateway",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 277,
     "timeWeek": 231,
     "timeMonth": 231,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2022-02-08": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web Portal",
@@ -277,19 +283,17 @@
     "icon": "https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg",
     "slug": "gateway",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 277,
     "timeWeek": 231,
     "timeMonth": 231,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2022-02-08": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CEPI WebSite",
@@ -370,15 +374,17 @@
     "slug": "backoffice",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 285,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
-    "dailyMinutesDown": {}
+    "time": 264,
+    "timeDay": 231,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   }
 ]
