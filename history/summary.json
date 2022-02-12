@@ -40,54 +40,60 @@
     "url": "https://sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "institucional",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 297,
     "timeDay": 313,
     "timeWeek": 310,
     "timeMonth": 297,
     "timeYear": 297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 8
+    }
   },
   {
     "name": "Mi Auto",
     "url": "https://miauto.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "mi-auto",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 526,
     "timeDay": 646,
     "timeWeek": 521,
     "timeMonth": 526,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 6
+    }
   },
   {
     "name": "Mi Hogar",
     "url": "https://mihogar.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "mi-hogar",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 281,
     "timeDay": 312,
     "timeWeek": 271,
     "timeMonth": 281,
     "timeYear": 281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 5
+    }
   },
   {
     "name": "Backoffice",
@@ -95,27 +101,29 @@
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "backoffice",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 296,
-    "timeWeek": 276,
-    "timeMonth": 277,
-    "timeYear": 277,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 275,
+    "timeDay": 276,
+    "timeWeek": 273,
+    "timeMonth": 275,
+    "timeYear": 275,
+    "dailyMinutesDown": {
+      "2022-02-12": 3
+    }
   },
   {
     "name": "Autogestion",
     "url": "https://autogestion.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "autogestion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 253,
@@ -124,6 +132,7 @@
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2022-02-12": 2,
       "2022-02-08": 23
     }
   },
@@ -132,9 +141,9 @@
     "url": "https://corredores.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "corredores",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +152,9 @@
     "timeWeek": 265,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   },
   {
     "name": "Scouting Portal",
@@ -169,17 +180,19 @@
     "icon": "https://therealscout.com/assets/images/logos/after90-logo.png",
     "slug": "backoffice",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 296,
-    "timeWeek": 276,
-    "timeMonth": 277,
-    "timeYear": 277,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 275,
+    "timeDay": 276,
+    "timeWeek": 273,
+    "timeMonth": 275,
+    "timeYear": 275,
+    "dailyMinutesDown": {
+      "2022-02-12": 3
+    }
   },
   {
     "name": "Gateway",
@@ -223,18 +236,18 @@
     "icon": "https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg",
     "slug": "identity-api",
     "status": "down",
-    "uptime": "98.21%",
-    "uptimeDay": "83.64%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptime": "90.77%",
+    "uptimeDay": "8.63%",
+    "uptimeWeek": "86.95%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "90.77%",
     "time": 230,
     "timeDay": 300,
     "timeWeek": 237,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-02-12": 1,
+      "2022-02-12": 1081,
       "2022-02-11": 235
     }
   },
@@ -244,18 +257,18 @@
     "icon": "https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg",
     "slug": "elements-api",
     "status": "down",
-    "uptime": "98.21%",
-    "uptimeDay": "83.64%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptime": "90.77%",
+    "uptimeDay": "8.64%",
+    "uptimeWeek": "86.95%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "90.77%",
     "time": 221,
     "timeDay": 270,
     "timeWeek": 222,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2022-02-12": 1,
+      "2022-02-12": 1081,
       "2022-02-11": 235
     }
   },
@@ -265,18 +278,18 @@
     "icon": "https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg",
     "slug": "files-api",
     "status": "down",
-    "uptime": "98.21%",
-    "uptimeDay": "83.65%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptime": "90.77%",
+    "uptimeDay": "8.64%",
+    "uptimeWeek": "86.95%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "90.77%",
     "time": 213,
     "timeDay": 259,
     "timeWeek": 209,
     "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2022-02-12": 1,
+      "2022-02-12": 1081,
       "2022-02-11": 235
     }
   },
@@ -376,16 +389,18 @@
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "backoffice",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 296,
-    "timeWeek": 276,
-    "timeMonth": 277,
-    "timeYear": 277,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 275,
+    "timeDay": 276,
+    "timeWeek": 273,
+    "timeMonth": 275,
+    "timeYear": 275,
+    "dailyMinutesDown": {
+      "2022-02-12": 3
+    }
   }
 ]
