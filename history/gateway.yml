@@ -1,7 +1,7 @@
-url: https://cadyncebpa-prod-api-management.azure-api.net
+url: https://gateway.therealscout.com/identity
 status: up
 code: 404
-responseTime: 296
-lastUpdated: 2022-02-12T23:03:43.415Z
+responseTime: 246
+lastUpdated: 2022-02-13T23:03:31.247Z
 startTime: Thu Feb 03 2022 12:51:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
