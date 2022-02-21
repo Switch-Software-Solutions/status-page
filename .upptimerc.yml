@@ -49,17 +49,17 @@ sites:
     url: https://cadynce-api-identity-prod.azurewebsites.net/index.html
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
     expectedStatusCodes:
-      - 404
+      - 403
   - name: Elements API
     url: https://cadynce-api-elements-prod.azurewebsites.net/index.html
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
     expectedStatusCodes:
-      - 404
+      - 403
   - name: Files API
     url: https://cadynce-fileserver-prod.azurewebsites.net/index.html
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
     expectedStatusCodes:
-      - 404
+      - 403
   - name: Gateway
     url: https://cadyncebpa-prod-api-management.azure-api.net
     icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
