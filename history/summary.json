@@ -194,19 +194,19 @@
     "url": "https://gateway.therealscout.com/identity",
     "icon": "https://therealscout.com/assets/images/logos/after90-logo.png",
     "slug": "gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 239,
-    "timeDay": 165,
+    "timeDay": 177,
     "timeWeek": 237,
     "timeMonth": 245,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2022-03-12": 12
+      "2022-03-12": 9
     }
   },
   {
@@ -236,7 +236,7 @@
     "uptime": "73.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.30%",
+    "uptimeMonth": "68.32%",
     "uptimeYear": "73.21%",
     "time": 264,
     "timeDay": 138,
@@ -266,7 +266,7 @@
     "uptime": "73.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.30%",
+    "uptimeMonth": "68.32%",
     "uptimeYear": "73.21%",
     "time": 248,
     "timeDay": 133,
@@ -296,7 +296,7 @@
     "uptime": "73.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.30%",
+    "uptimeMonth": "68.32%",
     "uptimeYear": "73.21%",
     "time": 244,
     "timeDay": 130,
@@ -322,19 +322,19 @@
     "url": "https://cadyncebpa-prod-api-management.azure-api.net",
     "icon": "https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg",
     "slug": "gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 239,
-    "timeDay": 165,
+    "timeDay": 177,
     "timeWeek": 237,
     "timeMonth": 245,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2022-03-12": 12
+      "2022-03-12": 9
     }
   },
   {
