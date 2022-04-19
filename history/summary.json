@@ -202,17 +202,17 @@
     "slug": "gateway",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 225,
-    "timeWeek": 217,
-    "timeMonth": 230,
+    "timeDay": 228,
+    "timeWeek": 218,
+    "timeMonth": 231,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-04-19": 11
+      "2022-04-19": 12
     }
   },
   {
@@ -330,17 +330,17 @@
     "slug": "gateway",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 225,
-    "timeWeek": 217,
-    "timeMonth": 230,
+    "timeDay": 228,
+    "timeWeek": 218,
+    "timeMonth": 231,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-04-19": 11
+      "2022-04-19": 12
     }
   },
   {
