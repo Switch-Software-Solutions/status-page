@@ -103,19 +103,19 @@
     "url": "https://back.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 5445,
-    "timeWeek": 1203,
-    "timeMonth": 482,
-    "timeYear": 344,
+    "time": 343,
+    "timeDay": 4387,
+    "timeWeek": 1157,
+    "timeMonth": 479,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-04-25": 0
+      "2022-04-25": 5
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://backoffice.therealscout.com",
     "icon": "https://therealscout.com/assets/images/logos/after90-logo.png",
     "slug": "backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 5445,
-    "timeWeek": 1203,
-    "timeMonth": 482,
-    "timeYear": 344,
+    "time": 343,
+    "timeDay": 4387,
+    "timeWeek": 1157,
+    "timeMonth": 479,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-04-25": 0
+      "2022-04-25": 5
     }
   },
   {
@@ -400,19 +400,19 @@
     "url": "https://timeswan.com",
     "icon": "https://d3vfsdml7w3i4b.cloudfront.net/system/logo/timeswanLogoStd.svg",
     "slug": "portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 7104,
-    "timeWeek": 1638,
-    "timeMonth": 579,
-    "timeYear": 381,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 379,
+    "timeDay": 5350,
+    "timeWeek": 1541,
+    "timeMonth": 572,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-04-25": 1
+      "2022-04-25": 7
     }
   },
   {
@@ -420,19 +420,19 @@
     "url": "https://logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 7104,
-    "timeWeek": 1638,
-    "timeMonth": 579,
-    "timeYear": 381,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 379,
+    "timeDay": 5350,
+    "timeWeek": 1541,
+    "timeMonth": 572,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-04-25": 1
+      "2022-04-25": 7
     }
   },
   {
@@ -440,19 +440,19 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 5445,
-    "timeWeek": 1203,
-    "timeMonth": 482,
-    "timeYear": 344,
+    "time": 343,
+    "timeDay": 4387,
+    "timeWeek": 1157,
+    "timeMonth": 479,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-04-25": 0
+      "2022-04-25": 5
     }
   }
 ]
