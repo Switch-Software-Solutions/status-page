@@ -1,7 +1,7 @@
-url: https://cadyncebpa-prod-api-management.azure-api.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-05-20T20:03:54.040Z
+url: https://gateway.therealscout.com/identity
+status: up
+code: 404
+responseTime: 219
+lastUpdated: 2022-05-20T20:14:18.640Z
 startTime: Thu Feb 03 2022 12:51:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
