@@ -71,9 +71,9 @@ sites:
   - name: CEPI Gateway
     url: http://api-cau-prod.switch.com.uy/api/health/liveness
 
-  - name: Portal
-    url: https://timeswan.com
-    icon: https://d3vfsdml7w3i4b.cloudfront.net/system/logo/timeswanLogoStd.svg
+  # - name: Portal
+  #   url: https://timeswan.com
+  #   icon: https://d3vfsdml7w3i4b.cloudfront.net/system/logo/timeswanLogoStd.svg
 
   - name: Portal
     url: https://logisyn.com
