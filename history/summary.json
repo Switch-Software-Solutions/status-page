@@ -40,19 +40,19 @@
     "url": "https://sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "institucional",
-    "status": "down",
+    "status": "up",
     "uptime": "94.84%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "94.84%",
     "time": 396,
-    "timeDay": 318,
-    "timeWeek": 298,
+    "timeDay": 321,
+    "timeWeek": 302,
     "timeMonth": 339,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-09-20": 14,
+      "2022-09-20": 26,
       "2022-07-01": 20,
       "2022-06-30": 137,
       "2022-06-29": 23,
@@ -145,7 +145,7 @@
     "slug": "backoffice",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,28 +154,26 @@
     "timeWeek": 302,
     "timeMonth": 303,
     "timeYear": 307,
-    "dailyMinutesDown": {
-      "2022-09-20": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Autogestion",
     "url": "https://autogestion.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "autogestion",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.82%",
     "time": 259,
-    "timeDay": 291,
-    "timeWeek": 237,
+    "timeDay": 301,
+    "timeWeek": 246,
     "timeMonth": 307,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2022-09-20": 14,
+      "2022-09-20": 26,
       "2022-07-01": 20,
       "2022-06-30": 137,
       "2022-06-29": 22,
@@ -439,7 +437,7 @@
     "slug": "backoffice",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -448,8 +446,6 @@
     "timeWeek": 302,
     "timeMonth": 303,
     "timeYear": 307,
-    "dailyMinutesDown": {
-      "2022-09-20": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
