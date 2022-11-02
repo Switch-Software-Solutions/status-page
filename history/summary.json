@@ -224,19 +224,19 @@
     "url": "https://cadynce-web-prod.azurewebsites.net",
     "icon": "https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg",
     "slug": "web-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 870,
-    "timeWeek": 434,
-    "timeMonth": 318,
+    "timeDay": 672,
+    "timeWeek": 416,
+    "timeMonth": 317,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2022-11-02": 0
+      "2022-11-02": 13
     }
   },
   {
