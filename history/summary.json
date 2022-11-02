@@ -4,19 +4,19 @@
     "url": "https://api.paselibre.uy/api/health/liveness",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 735,
-    "timeDay": 593,
-    "timeWeek": 692,
-    "timeMonth": 700,
+    "timeDay": 729,
+    "timeWeek": 713,
+    "timeMonth": 705,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2022-11-02": 0
+      "2022-11-02": 15
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://paselibre.uy",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "web-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 712,
-    "timeDay": 583,
-    "timeWeek": 670,
-    "timeMonth": 679,
+    "timeDay": 704,
+    "timeWeek": 689,
+    "timeMonth": 683,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2022-11-02": 0
+      "2022-11-02": 15
     }
   },
   {
