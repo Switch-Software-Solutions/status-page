@@ -226,18 +226,16 @@
     "slug": "web-portal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
     "timeDay": 672,
     "timeWeek": 416,
     "timeMonth": 317,
     "timeYear": 271,
-    "dailyMinutesDown": {
-      "2022-11-02": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Identity API",
