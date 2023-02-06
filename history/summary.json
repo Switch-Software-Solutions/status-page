@@ -140,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2023-02-06": 1179,
+      "2023-02-06": 1186,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -240,15 +240,15 @@
     "url": "https://back.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 265,
-    "timeWeek": 292,
+    "timeDay": 263,
+    "timeWeek": 290,
     "timeMonth": 301,
     "timeYear": 304,
     "dailyMinutesDown": {
@@ -534,19 +534,19 @@
     "url": "https://logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 302,
-    "timeDay": 378,
-    "timeWeek": 292,
-    "timeMonth": 305,
+    "timeDay": 299,
+    "timeWeek": 283,
+    "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-02-06": 58
+      "2023-02-06": 64
     }
   },
   {
@@ -554,19 +554,19 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 265,
-    "timeWeek": 292,
+    "timeDay": 263,
+    "timeWeek": 290,
     "timeMonth": 301,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-02-06": 8
+      "2023-02-06": 7
     }
   }
 ]
