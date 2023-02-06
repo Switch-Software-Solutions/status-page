@@ -140,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2023-02-06": 1137,
+      "2023-02-06": 1146,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -242,17 +242,17 @@
     "slug": "backoffice",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 251,
-    "timeWeek": 297,
-    "timeMonth": 302,
+    "timeDay": 231,
+    "timeWeek": 289,
+    "timeMonth": 301,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-02-06": 7
+      "2023-02-06": 9
     }
   },
   {
@@ -536,9 +536,9 @@
     "slug": "portal",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 378,
@@ -546,7 +546,7 @@
     "timeMonth": 305,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-02-06": 16
+      "2023-02-06": 24
     }
   },
   {
@@ -556,17 +556,17 @@
     "slug": "backoffice",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 251,
-    "timeWeek": 297,
-    "timeMonth": 302,
+    "timeDay": 231,
+    "timeWeek": 289,
+    "timeMonth": 301,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-02-06": 8
+      "2023-02-06": 9
     }
   }
 ]
