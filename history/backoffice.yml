@@ -1,7 +1,7 @@
-url: https://backoffice.logisyn.com
-status: down
-code: 502
-responseTime: 1836
-lastUpdated: 2023-07-24T11:35:28.191Z
+url: https://back.sbi.uy
+status: up
+code: 200
+responseTime: 445
+lastUpdated: 2023-07-24T11:42:48.499Z
 startTime: Wed Feb 02 2022 20:32:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
