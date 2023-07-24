@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2023-07-24": 696,
+      "2023-07-24": 703,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
@@ -373,19 +373,19 @@
     "url": "https://back.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 769,
-    "timeWeek": 375,
-    "timeMonth": 296,
+    "timeDay": 688,
+    "timeWeek": 379,
+    "timeMonth": 299,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 7
     }
   },
   {
@@ -614,19 +614,19 @@
     "url": "https://logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 289,
-    "timeDay": 1087,
-    "timeWeek": 470,
-    "timeMonth": 348,
+    "time": 290,
+    "timeDay": 851,
+    "timeWeek": 460,
+    "timeMonth": 349,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-07-24": 1,
+      "2023-07-24": 8,
       "2023-02-06": 64
     }
   },
@@ -635,19 +635,19 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 769,
-    "timeWeek": 375,
-    "timeMonth": 296,
+    "timeDay": 688,
+    "timeWeek": 379,
+    "timeMonth": 299,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-07-24": 1
+      "2023-07-24": 7
     }
   }
 ]
