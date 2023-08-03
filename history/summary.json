@@ -102,18 +102,18 @@
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "mi-hogar",
     "status": "down",
-    "uptime": "52.11%",
+    "uptime": "52.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.44%",
+    "uptimeYear": "28.30%",
     "time": 271,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2023-08-03": 1,
+      "2023-08-03": 714,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -385,9 +385,9 @@
     "url": "https://back.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -396,7 +396,9 @@
     "timeWeek": 260,
     "timeMonth": 297,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 0
+    }
   },
   {
     "name": "Autogestion",
@@ -625,10 +627,10 @@
     "url": "https://logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 290,
@@ -637,6 +639,7 @@
     "timeMonth": 340,
     "timeYear": 309,
     "dailyMinutesDown": {
+      "2023-08-03": 1,
       "2023-02-06": 64
     }
   },
@@ -645,10 +648,10 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
@@ -656,6 +659,8 @@
     "timeWeek": 260,
     "timeMonth": 297,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 1
+    }
   }
 ]
