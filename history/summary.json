@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2023-08-03": 816,
+      "2023-08-03": 823,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -385,19 +385,19 @@
     "url": "https://back.sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 272,
-    "timeWeek": 266,
-    "timeMonth": 295,
+    "timeDay": 256,
+    "timeWeek": 258,
+    "timeMonth": 293,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2023-08-03": 23
+      "2023-08-03": 22
     }
   },
   {
@@ -627,19 +627,19 @@
     "url": "https://logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.84%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
-    "time": 290,
-    "timeDay": 364,
-    "timeWeek": 265,
-    "timeMonth": 340,
+    "time": 291,
+    "timeDay": 370,
+    "timeWeek": 277,
+    "timeMonth": 341,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-08-03": 103,
+      "2023-08-03": 110,
       "2023-02-06": 64
     }
   },
@@ -648,19 +648,19 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "backoffice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 272,
-    "timeWeek": 266,
-    "timeMonth": 295,
+    "timeDay": 256,
+    "timeWeek": 258,
+    "timeMonth": 293,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2023-08-03": 24
+      "2023-08-03": 22
     }
   }
 ]
