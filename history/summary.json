@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2023-08-03": 764,
+      "2023-08-03": 776,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -387,17 +387,17 @@
     "slug": "backoffice",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 289,
-    "timeDay": 246,
-    "timeWeek": 256,
-    "timeMonth": 295,
+    "timeDay": 274,
+    "timeWeek": 266,
+    "timeMonth": 296,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2023-08-03": 15
+      "2023-08-03": 27
     }
   },
   {
@@ -628,10 +628,10 @@
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "portal",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 290,
     "timeDay": 364,
@@ -639,7 +639,7 @@
     "timeMonth": 340,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-08-03": 51,
+      "2023-08-03": 63,
       "2023-02-06": 64
     }
   },
@@ -650,17 +650,17 @@
     "slug": "backoffice",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 289,
-    "timeDay": 246,
-    "timeWeek": 256,
-    "timeMonth": 295,
+    "timeDay": 274,
+    "timeWeek": 266,
+    "timeMonth": 296,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2023-08-03": 16
+      "2023-08-03": 28
     }
   }
 ]
