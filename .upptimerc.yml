@@ -22,9 +22,9 @@ sites:
   - name: SBI Mi Auto
     url: https://miauto.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: SBI Mi Hogar
-    url: https://mihogar.sbi.uy
-    icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
+  # - name: SBI Mi Hogar
+  #   url: https://mihogar.sbi.uy
+  #   icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
   - name: SBI Backoffice
     url: https://back.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
