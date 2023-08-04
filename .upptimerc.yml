@@ -3,30 +3,39 @@ owner: switch-software-solutions # Your GitHub organization or username, where t
 repo: status-page # The name of this repository
 
 sites:
-  - name: API
-    url: https://api.paselibre.uy/api/health/liveness
-    icon: https://paselibre.uy/assets/images/paselibreLogo.svg
-  - name: WebSite
+  - name: Paselibre WebSite
     url: https://paselibre.uy
     icon: https://paselibre.uy/assets/images/paselibreLogo.svg
+  - name: Paselibre API
+    url: https://api.paselibre.uy/api/health/liveness
+    icon: https://paselibre.uy/assets/images/paselibreLogo.svg
+  - name: Paselibre Gimnasios
+    url: https://gimnasios.paselibre.uy
+    icon: https://paselibre.uy/assets/images/paselibreLogo.svg
+  - name: Paselibre Portal
+    url: https://portal.paselibre.uy
+    icon: https://paselibre.uy/assets/images/paselibreLogo.svg
 
-  - name: Institucional
+  - name: SBI Multiproducto
     url: https://sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: Mi Auto
+  - name: SBI Mi Auto
     url: https://miauto.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: Mi Hogar
+  - name: SBI Mi Hogar
     url: https://mihogar.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: Backoffice
+  - name: SBI Backoffice
     url: https://back.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: Autogestion
+  - name: SBI Autogestion
     url: https://autogestion.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
-  - name: Corredores
+  - name: SBI Corredores
     url: https://corredores.sbi.uy
+    icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
+  - name: SBI Payments
+    url: https://payments.sbi.uy
     icon: https://sbi.uy/assets/images/logos/logo-SBI.svg
 
   # - name: Scouting Portal
@@ -42,29 +51,29 @@ sites:
   #     - 404
 
   # Cadynce
-  - name: Web Portal
-    url: https://cadynce-web-prod.azurewebsites.net
-    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-  - name: Identity API
-    url: https://cadynce-api-identity-prod.azurewebsites.net/index.html
-    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-    expectedStatusCodes:
-      - 403
-  - name: Elements API
-    url: https://cadynce-api-elements-prod.azurewebsites.net/index.html
-    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-    expectedStatusCodes:
-      - 403
-  - name: Files API
-    url: https://cadynce-fileserver-prod.azurewebsites.net/index.html
-    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-    expectedStatusCodes:
-      - 403
-  - name: Gateway
-    url: https://cadyncebpa-prod-api-management.azure-api.net
-    icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
-    expectedStatusCodes:
-      - 404
+  # - name: Web Portal
+  #   url: https://cadynce-web-prod.azurewebsites.net
+  #   icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+  # - name: Identity API
+  #   url: https://cadynce-api-identity-prod.azurewebsites.net/index.html
+  #   icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+  #   expectedStatusCodes:
+  #     - 403
+  # - name: Elements API
+  #   url: https://cadynce-api-elements-prod.azurewebsites.net/index.html
+  #   icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+  #   expectedStatusCodes:
+  #     - 403
+  # - name: Files API
+  #   url: https://cadynce-fileserver-prod.azurewebsites.net/index.html
+  #   icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+  #   expectedStatusCodes:
+  #     - 403
+  # - name: Gateway
+  #   url: https://cadyncebpa-prod-api-management.azure-api.net
+  #   icon: https://cadynce-web-prod.azurewebsites.net/assets/images/logos/cadynceLogoColor.svg
+  #   expectedStatusCodes:
+  #     - 404
 
   - name: CEPI WebSite
     url: http://web-cau-prod.switch.com.uy
@@ -75,17 +84,15 @@ sites:
   #   url: https://timeswan.com
   #   icon: https://d3vfsdml7w3i4b.cloudfront.net/system/logo/timeswanLogoStd.svg
 
-  - name: Portal
+  - name: Logisyn Portal
     url: https://logisyn.com
     icon: https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png
-  - name: Backoffice
+  - name: Logisyn Backoffice
     url: https://backoffice.logisyn.com
     icon: https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png
 
 assignees:
-  - amontesdioca-sw
   - mtorterolo-sw
-  - dsilveira-sw
   - mmonegal-sw
 
 status-website:
