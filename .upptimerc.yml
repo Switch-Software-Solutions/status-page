@@ -10,7 +10,7 @@ sites:
     url: https://api.paselibre.uy/api/health/liveness
     icon: https://paselibre.uy/assets/images/paselibreLogo.svg
   - name: Paselibre Gimnasios
-    url: https://gimnasios.paselibre.uy
+    url: https://gimnasio.paselibre.uy
     icon: https://paselibre.uy/assets/images/paselibreLogo.svg
   - name: Paselibre Portal
     url: https://portal.paselibre.uy
