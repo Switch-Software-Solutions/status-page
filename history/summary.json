@@ -251,18 +251,18 @@
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-portal",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 284,
     "timeDay": 218,
     "timeWeek": 267,
     "timeMonth": 276,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-09-22": 0
+      "2023-09-22": 9
     }
   },
   {
@@ -270,19 +270,19 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-backoffice",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 240,
-    "timeWeek": 273,
-    "timeMonth": 293,
-    "timeYear": 300,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 301,
+    "timeDay": 288,
+    "timeWeek": 281,
+    "timeMonth": 294,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-09-22": 0
+      "2023-09-22": 9
     }
   }
 ]
