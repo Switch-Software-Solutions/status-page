@@ -97,7 +97,7 @@
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "sbi-mi-auto",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -253,18 +253,18 @@
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-portal",
     "status": "down",
-    "uptime": "68.37%",
+    "uptime": "67.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.91%",
-    "uptimeYear": "68.37%",
+    "uptimeMonth": "24.34%",
+    "uptimeYear": "67.92%",
     "time": 284,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 267,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-10-15": 1,
+      "2023-10-15": 690,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -295,9 +295,9 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -306,6 +306,8 @@
     "timeWeek": 267,
     "timeMonth": 307,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-15": 0
+    }
   }
 ]
