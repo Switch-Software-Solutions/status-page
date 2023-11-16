@@ -58,19 +58,19 @@
     "url": "https://portal.paselibre.uy",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 141,
-    "timeWeek": 198,
-    "timeMonth": 211,
+    "timeDay": 139,
+    "timeWeek": 191,
+    "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-11-16": 1
+      "2023-11-16": 6
     }
   },
   {
@@ -264,7 +264,7 @@
     "timeMonth": 0,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-11-16": 459,
+      "2023-11-16": 465,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
