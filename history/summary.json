@@ -268,7 +268,7 @@
     "timeMonth": 0,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-03-02": 1,
+      "2024-03-02": 40,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
@@ -438,9 +438,9 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -449,6 +449,8 @@
     "timeWeek": 325,
     "timeMonth": 319,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-02": 0
+    }
   }
 ]
