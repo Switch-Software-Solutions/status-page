@@ -1,7 +1,7 @@
 url: https://back.sbi.uy
-status: up
-code: 200
-responseTime: 194
-lastUpdated: 2024-03-18T23:04:12.031Z
+status: down
+code: 502
+responseTime: 18940
+lastUpdated: 2024-03-19T20:03:48.389Z
 startTime: 2023-08-04T17:41:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
