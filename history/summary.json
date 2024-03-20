@@ -257,18 +257,18 @@
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-portal",
     "status": "down",
-    "uptime": "21.35%",
+    "uptime": "21.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "21.35%",
+    "uptimeYear": "21.31%",
     "time": 284,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-03-20": 1,
+      "2024-03-20": 503,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -456,9 +456,9 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -468,6 +468,7 @@
     "timeMonth": 295,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2024-03-20": 0,
       "2024-03-02": 26
     }
   }
