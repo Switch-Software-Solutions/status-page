@@ -106,7 +106,7 @@
     "time": 287,
     "timeDay": 173,
     "timeWeek": 313,
-    "timeMonth": 320,
+    "timeMonth": 323,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2024-04-13": 416,
@@ -194,7 +194,7 @@
     "time": 251,
     "timeDay": 186,
     "timeWeek": 257,
-    "timeMonth": 282,
+    "timeMonth": 283,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2024-04-13": 410,
@@ -256,18 +256,19 @@
     "url": "https://logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-portal",
-    "status": "up",
-    "uptime": "15.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "26.75%",
-    "uptimeMonth": "4.25%",
-    "uptimeYear": "15.41%",
+    "status": "down",
+    "uptime": "15.59%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "36.73%",
+    "uptimeMonth": "6.55%",
+    "uptimeYear": "15.59%",
     "time": 300,
     "timeDay": 439,
     "timeWeek": 512,
     "timeMonth": 512,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2024-06-28": 2,
       "2024-06-26": 185,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -554,9 +555,9 @@
     "url": "https://backoffice.logisyn.com",
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -566,6 +567,7 @@
     "timeMonth": 341,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2024-06-28": 0,
       "2024-03-02": 26
     }
   }
