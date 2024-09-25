@@ -1,7 +1,7 @@
 url: http://web-cau-prod.switch.com.uy
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2024-09-24T23:03:42.537Z
+status: down
+code: 503
+responseTime: 465
+lastUpdated: 2024-09-25T14:52:25.927Z
 startTime: 2022-02-02T15:49:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
