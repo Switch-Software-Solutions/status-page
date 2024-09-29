@@ -22,18 +22,20 @@
     "url": "https://api.paselibre.uy/api/health/liveness",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 309,
+    "timeDay": 159,
     "timeWeek": 257,
     "timeMonth": 226,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   },
   {
     "name": "Paselibre Gimnasios",
@@ -256,14 +258,14 @@
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-portal",
     "status": "up",
-    "uptime": "33.93%",
+    "uptime": "34.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.63%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "25.54%",
+    "uptimeYear": "25.74%",
     "time": 421,
     "timeDay": 520,
-    "timeWeek": 341,
+    "timeWeek": 342,
     "timeMonth": 391,
     "timeYear": 447,
     "dailyMinutesDown": {
