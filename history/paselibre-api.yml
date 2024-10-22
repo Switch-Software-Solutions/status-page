@@ -1,7 +1,7 @@
 url: https://api.paselibre.uy/api/health/liveness
 status: up
 code: 200
-responseTime: 397
-lastUpdated: 2024-10-21T23:04:10.498Z
+responseTime: 185
+lastUpdated: 2024-10-22T23:03:54.729Z
 startTime: 2023-08-04T17:41:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
