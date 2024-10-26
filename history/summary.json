@@ -22,19 +22,19 @@
     "url": "https://api.paselibre.uy/api/health/liveness",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 444,
-    "timeWeek": 243,
-    "timeMonth": 220,
+    "timeDay": 433,
+    "timeWeek": 265,
+    "timeMonth": 226,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-10-26": 0
+      "2024-10-26": 9
     }
   },
   {
