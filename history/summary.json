@@ -76,11 +76,11 @@
     "url": "https://sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "sbi-multiproducto",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
     "time": 524,
     "timeDay": 4992,
@@ -88,7 +88,7 @@
     "timeMonth": 3095,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2024-10-31": 29,
+      "2024-10-31": 15,
       "2024-04-13": 417
     }
   },
@@ -259,7 +259,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.02%",
-    "uptimeYear": "34.43%",
+    "uptimeYear": "34.44%",
     "time": 532,
     "timeDay": 537,
     "timeWeek": 2445,
