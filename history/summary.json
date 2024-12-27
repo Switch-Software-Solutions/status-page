@@ -24,18 +24,16 @@
     "slug": "paselibre-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
     "timeDay": 147,
     "timeWeek": 266,
     "timeMonth": 271,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2024-12-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Paselibre Gimnasios",
@@ -260,7 +258,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "49.74%",
+    "uptimeYear": "49.75%",
     "time": 519,
     "timeDay": 0,
     "timeWeek": 461,
@@ -477,8 +475,7 @@
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
-      "2023-12-29": 1440,
-      "2023-12-28": 1440
+      "2023-12-29": 1440
     }
   },
   {
