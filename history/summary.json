@@ -22,11 +22,11 @@
     "url": "https://api.paselibre.uy/api/health/liveness",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 265,
     "timeDay": 276,
@@ -34,7 +34,7 @@
     "timeMonth": 262,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-01-09": 10
+      "2025-01-09": 0
     }
   },
   {
@@ -143,7 +143,7 @@
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "sbi-autogestion",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -254,11 +254,11 @@
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-portal",
     "status": "up",
-    "uptime": "46.72%",
+    "uptime": "46.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "53.38%",
+    "uptimeYear": "53.57%",
     "time": 519,
     "timeDay": 508,
     "timeWeek": 512,
