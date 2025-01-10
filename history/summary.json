@@ -13,7 +13,7 @@
     "time": 226,
     "timeDay": 188,
     "timeWeek": 201,
-    "timeMonth": 238,
+    "timeMonth": 239,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-01-10": 35
@@ -24,19 +24,19 @@
     "url": "https://api.paselibre.uy/api/health/liveness",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "92.96%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.64%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
-    "time": 314,
-    "timeDay": 3317,
-    "timeWeek": 1530,
-    "timeMonth": 824,
-    "timeYear": 342,
+    "time": 333,
+    "timeDay": 4102,
+    "timeWeek": 1949,
+    "timeMonth": 1049,
+    "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-01-10": 101
+      "2025-01-10": 120
     }
   },
   {
@@ -93,7 +93,7 @@
     "time": 896,
     "timeDay": 2960,
     "timeWeek": 2910,
-    "timeMonth": 2785,
+    "timeMonth": 2787,
     "timeYear": 1085,
     "dailyMinutesDown": {
       "2024-10-31": 15,
