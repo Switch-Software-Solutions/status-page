@@ -6,9 +6,9 @@
     "slug": "paselibre-web-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 226,
     "timeDay": 195,
@@ -16,7 +16,7 @@
     "timeMonth": 242,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-01-10": 0
+      "2025-01-10": 25
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://api.paselibre.uy/api/health/liveness",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 235,
-    "timeWeek": 283,
-    "timeMonth": 264,
+    "timeDay": 241,
+    "timeWeek": 281,
+    "timeMonth": 263,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-10": 0
+    }
   },
   {
     "name": "Paselibre Gimnasios",
@@ -44,9 +46,9 @@
     "slug": "paselibre-gimnasios",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 223,
@@ -54,7 +56,7 @@
     "timeMonth": 238,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-01-10": 0
+      "2025-01-10": 25
     }
   },
   {
@@ -64,9 +66,9 @@
     "slug": "paselibre-portal",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 195,
@@ -74,7 +76,7 @@
     "timeMonth": 241,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-01-10": 0
+      "2025-01-10": 25
     }
   },
   {
@@ -258,7 +260,7 @@
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-portal",
     "status": "up",
-    "uptime": "46.86%",
+    "uptime": "46.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
