@@ -1,7 +1,7 @@
 url: https://logisyn.com
-status: up
-code: 200
-responseTime: 605
-lastUpdated: 2025-01-29T16:52:17.488Z
+status: down
+code: 403
+responseTime: 74
+lastUpdated: 2025-01-29T16:59:41.548Z
 startTime: 2023-08-04T17:41:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
