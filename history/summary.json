@@ -33,7 +33,7 @@
     "time": 415,
     "timeDay": 115,
     "timeWeek": 223,
-    "timeMonth": 328,
+    "timeMonth": 333,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2025-02-25": 86,
@@ -67,9 +67,9 @@
     "url": "https://portal.paselibre.uy",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -79,6 +79,7 @@
     "timeMonth": 319,
     "timeYear": 228,
     "dailyMinutesDown": {
+      "2025-03-11": 0,
       "2025-01-10": 35
     }
   },
@@ -263,14 +264,14 @@
     "icon": "https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png",
     "slug": "logisyn-portal",
     "status": "up",
-    "uptime": "52.19%",
+    "uptime": "52.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "70.20%",
+    "uptimeYear": "70.41%",
     "time": 522,
     "timeDay": 502,
-    "timeWeek": 549,
+    "timeWeek": 597,
     "timeMonth": 461,
     "timeYear": 522,
     "dailyMinutesDown": {
