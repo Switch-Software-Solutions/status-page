@@ -6,9 +6,9 @@
     "slug": "paselibre-web-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 495,
     "timeDay": 3882,
@@ -16,7 +16,6 @@
     "timeMonth": 1797,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-05-23": 11,
       "2025-05-22": 38,
       "2025-05-10": 37,
       "2025-01-10": 35
@@ -97,8 +96,8 @@
     "slug": "sbi-multiproducto",
     "status": "up",
     "uptime": "98.14%",
-    "uptimeDay": "29.07%",
-    "uptimeWeek": "4.15%",
+    "uptimeDay": "31.70%",
+    "uptimeWeek": "4.53%",
     "uptimeMonth": "61.61%",
     "uptimeYear": "96.80%",
     "time": 1630,
@@ -291,7 +290,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.45%",
+    "uptimeYear": "90.46%",
     "time": 663,
     "timeDay": 3513,
     "timeWeek": 2697,
@@ -373,8 +372,7 @@
       "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   },
   {
