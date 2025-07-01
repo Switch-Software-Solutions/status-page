@@ -84,12 +84,12 @@ sites:
   #   url: https://timeswan.com
   #   icon: https://d3vfsdml7w3i4b.cloudfront.net/system/logo/timeswanLogoStd.svg
 
-  - name: Logisyn Portal
-    url: https://logisyn.com
-    icon: https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png
-  - name: Logisyn Backoffice
-    url: https://backoffice.logisyn.com
-    icon: https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png
+  # - name: Logisyn Portal
+  #   url: https://logisyn.com
+  #   icon: https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png
+  # - name: Logisyn Backoffice
+  #   url: https://backoffice.logisyn.com
+  #   icon: https://logisyn.com/assets/images/logos/m&a-consulting-growth-consulting-in-chicago-logisyn.png
 
 assignees:
   - mtorterolo-sw
