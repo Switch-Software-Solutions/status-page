@@ -1,7 +1,7 @@
 url: https://paselibre.uy
-status: up
-code: 200
-responseTime: 12495
-lastUpdated: 2025-10-20T17:16:16.999Z
+status: down
+code: 504
+responseTime: 21241
+lastUpdated: 2025-10-20T17:28:28.410Z
 startTime: 2023-08-04T17:41:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
