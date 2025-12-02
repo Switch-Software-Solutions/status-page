@@ -247,10 +247,10 @@
     "url": "http://web-cau-prod.switch.com.uy",
     "icon": "https://icons.duckduckgo.com/ip3/web-cau-prod.switch.com.uy.ico",
     "slug": "cepi-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 650,
@@ -259,6 +259,7 @@
     "timeMonth": 718,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2025-12-02": 1,
       "2025-11-15": 25,
       "2025-09-16": 28,
       "2025-09-05": 27
@@ -269,9 +270,9 @@
     "url": "http://api-cau-prod.switch.com.uy/api/health/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/api-cau-prod.switch.com.uy.ico",
     "slug": "cepi-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -281,6 +282,7 @@
     "timeMonth": 653,
     "timeYear": 647,
     "dailyMinutesDown": {
+      "2025-12-02": 0,
       "2025-11-15": 25,
       "2025-09-16": 28,
       "2025-09-05": 27
