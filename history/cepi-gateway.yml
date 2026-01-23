@@ -1,7 +1,7 @@
 url: http://api-cau-prod.switch.com.uy/api/health/liveness
 status: up
 code: 200
-responseTime: 507
-lastUpdated: 2026-01-22T23:05:11.814Z
+responseTime: 1400
+lastUpdated: 2026-01-23T23:05:00.717Z
 startTime: 2022-02-02T15:49:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
