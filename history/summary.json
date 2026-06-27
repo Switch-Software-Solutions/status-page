@@ -35,7 +35,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.06%",
+    "uptimeYear": "59.05%",
     "time": 362,
     "timeDay": 213,
     "timeWeek": 203,
@@ -44,7 +44,8 @@
     "dailyMinutesDown": {
       "2025-07-01": 24,
       "2025-08-05": 41,
-      "2026-06-26": 1412,
+      "2026-06-27": 21,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -203,9 +204,9 @@
     "slug": "paselibre-gimnasios",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 277,
     "timeDay": 172,
@@ -214,8 +215,7 @@
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-08-05": 41,
-      "2026-06-07": 24,
-      "2026-06-26": 11
+      "2026-06-07": 24
     }
   },
   {
@@ -225,9 +225,9 @@
     "slug": "paselibre-portal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 282,
     "timeDay": 211,
@@ -236,8 +236,7 @@
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-08-05": 41,
-      "2026-06-07": 17,
-      "2026-06-26": 4
+      "2026-06-07": 17
     }
   },
   {
