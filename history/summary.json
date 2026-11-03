@@ -31,8 +31,8 @@
     "status": "up",
     "uptime": "77.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "20.15%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "20.16%",
     "uptimeYear": "25.44%",
     "time": 288,
     "timeDay": 147,
@@ -360,23 +360,23 @@
     "url": "https://sbi.uy",
     "icon": "https://sbi.uy/assets/images/logos/logo-SBI.svg",
     "slug": "sbi-multiproducto",
-    "status": "down",
+    "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 2929,
-    "timeDay": 11474,
-    "timeWeek": 5374,
-    "timeMonth": 4124,
-    "timeYear": 2973,
+    "time": 2930,
+    "timeDay": 8715,
+    "timeWeek": 5132,
+    "timeMonth": 4098,
+    "timeYear": 2974,
     "dailyMinutesDown": {
       "2025-11-18": 116,
       "2025-12-24": 21,
       "2026-04-02": 19,
       "2026-10-13": 20,
-      "2026-11-03": 8
+      "2026-11-03": 14
     }
   },
   {
@@ -386,10 +386,10 @@
     "slug": "sbi-mi-auto",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 432,
     "timeDay": 6658,
     "timeWeek": 2548,
@@ -397,8 +397,7 @@
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-11-18": 116,
-      "2026-01-22": 16,
-      "2026-11-03": 6
+      "2026-01-22": 16
     }
   },
   {
@@ -408,9 +407,9 @@
     "slug": "sbi-backoffice",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 435,
     "timeDay": 6591,
@@ -419,8 +418,7 @@
     "timeYear": 452,
     "dailyMinutesDown": {
       "2025-11-18": 124,
-      "2026-01-22": 16,
-      "2026-11-03": 6
+      "2026-01-22": 16
     }
   },
   {
@@ -430,18 +428,17 @@
     "slug": "sbi-autogestion",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 438,
     "timeDay": 6696,
     "timeWeek": 2511,
     "timeMonth": 975,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2025-11-18": 131,
-      "2026-11-03": 4
+      "2025-11-18": 131
     }
   },
   {
@@ -451,9 +448,9 @@
     "slug": "sbi-corredores",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 407,
     "timeDay": 6737,
@@ -461,8 +458,7 @@
     "timeMonth": 1007,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-11-18": 148,
-      "2026-11-03": 3
+      "2025-11-18": 148
     }
   },
   {
