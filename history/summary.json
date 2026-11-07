@@ -29,10 +29,10 @@
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-api",
     "status": "up",
-    "uptime": "77.10%",
+    "uptime": "77.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "31.88%",
+    "uptimeMonth": "33.89%",
     "uptimeYear": "25.44%",
     "time": 288,
     "timeDay": 147,
@@ -485,11 +485,11 @@
     "url": "http://web-cau-prod.switch.com.uy",
     "icon": "https://icons.duckduckgo.com/ip3/web-cau-prod.switch.com.uy.ico",
     "slug": "cepi-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 692,
     "timeDay": 442,
@@ -499,7 +499,8 @@
     "dailyMinutesDown": {
       "2025-11-15": 25,
       "2026-03-30": 33,
-      "2026-05-20": 96
+      "2026-05-20": 96,
+      "2026-11-07": 5
     }
   },
   {
@@ -507,13 +508,13 @@
     "url": "http://api-cau-prod.switch.com.uy/api/health/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/api-cau-prod.switch.com.uy.ico",
     "slug": "cepi-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 700,
+    "time": 701,
     "timeDay": 443,
     "timeWeek": 590,
     "timeMonth": 1049,
@@ -521,7 +522,8 @@
     "dailyMinutesDown": {
       "2025-11-15": 25,
       "2026-03-30": 33,
-      "2026-05-20": 96
+      "2026-05-20": 96,
+      "2026-11-07": 1
     }
   }
 ]
