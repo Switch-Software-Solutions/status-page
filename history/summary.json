@@ -4,23 +4,24 @@
     "url": "https://paselibre.uy",
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1104,
-    "timeDay": 744,
-    "timeWeek": 776,
-    "timeMonth": 958,
-    "timeYear": 983,
+    "time": 1182,
+    "timeDay": 20155,
+    "timeWeek": 5625,
+    "timeMonth": 2165,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2025-12-05": 20,
       "2026-04-25": 19,
       "2026-06-07": 36,
       "2026-06-26": 22,
-      "2026-08-25": 22
+      "2026-08-25": 22,
+      "2026-11-12": 0
     }
   },
   {
@@ -29,10 +30,10 @@
     "icon": "https://paselibre.uy/assets/images/paselibreLogo.svg",
     "slug": "paselibre-api",
     "status": "up",
-    "uptime": "77.21%",
+    "uptime": "77.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.73%",
+    "uptimeMonth": "51.36%",
     "uptimeYear": "25.44%",
     "time": 287,
     "timeDay": 290,
@@ -451,9 +452,9 @@
     "slug": "sbi-corredores",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 445,
     "timeDay": 6896,
@@ -461,8 +462,7 @@
     "timeMonth": 1511,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2025-11-18": 148,
-      "2026-11-12": 15
+      "2025-11-18": 148
     }
   },
   {
