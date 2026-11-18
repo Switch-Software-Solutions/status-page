@@ -1,7 +1,7 @@
 url: https://corredores.sbi.uy
-status: up
-code: 200
-responseTime: 490
-lastUpdated: 2026-11-17T23:05:49.808Z
+status: down
+code: 522
+responseTime: 21429
+lastUpdated: 2026-11-18T10:08:58.488Z
 startTime: 2023-08-04T17:41:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
